@@ -1,0 +1,31 @@
+
+.btn{
+    margin : 10px ; 
+    padding : 10px ; 
+
+}
+
+.inc {
+    color : yellow; 
+    background-color: black ;
+    font-weight: bold;
+    font-size: 18px ;
+}
+
+.dec{
+    color :black ; 
+    background-color: yellow  ;
+    font-weight: bold;
+    font-size: 18px ;
+}
+
+.text{
+    color: rgb(112, 76, 182);
+    font-size: 24px ;
+    font-weight: bolder ;
+    padding : 20px ;
+    margin : 20px ; 
+    min-height: 100vh ;
+    min-width: 100px ;
+
+}
